@@ -49,9 +49,9 @@ Designed to support **over 1,000 hubs and warehouses** simultaneously. Uses modu
 
 ## Programming Languages
 
-- **C++** — Central server and core logic  
-- **C** — Warehouses, hubs, and delivery trucks clients  
-- **Go** — REST API server (for human operators)
+- **C++** – Central server and core logic  
+- **C** – Warehouses, hubs, and delivery trucks clients  
+- **Go** – REST API server (for human operators)
 
 ---
 
@@ -95,6 +95,6 @@ Expected:
 
 ## Credits
 
-This project was developed for **Laboratory Work 1** of the course **Operating Systems II**, taught by **Engineer Gabriel Valenzuela** at the **Facultad de Ciencias Exactas, Físicas y Naturales (FCEFyN), Universidad Nacional de Córdoba (UNC)**.
+This project was developed for Laboratory Work 1 of the course Operating Systems II, taught by Engineer Gabriel Valenzuela at the Facultad de Ciencias Exactas, Físicas y Naturales (FCEFyN), Universidad Nacional de Córdoba (UNC).
 
 Developed by **Juan Ignacio Sassi**.
